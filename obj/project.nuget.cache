@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oV6aekOsvAZmrgY87c05cRG53jZQh2cLxZbjhApctTH5EM40dAiJhG4dgwzB1LKwzGQYFfhjfVilj3QIi2voWw==",
+  "success": true,
+  "projectFilePath": "E:\\GitHub\\FluentFtpSolution\\FluentFTPExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ziggy\\.nuget\\packages\\fluentftp\\50.0.1\\fluentftp.50.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+E:\GitHub\FluentFtpSolution\bin\Debug\net8.0\FluentFTPExample.exe
+E:\GitHub\FluentFtpSolution\bin\Debug\net8.0\FluentFTPExample.deps.json
+E:\GitHub\FluentFtpSolution\bin\Debug\net8.0\FluentFTPExample.runtimeconfig.json
+E:\GitHub\FluentFtpSolution\bin\Debug\net8.0\FluentFTPExample.dll
+E:\GitHub\FluentFtpSolution\bin\Debug\net8.0\FluentFTPExample.pdb
+E:\GitHub\FluentFtpSolution\bin\Debug\net8.0\FluentFTP.dll
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\FluentFTPExample.csproj.AssemblyReference.cache
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\FluentFTPExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\FluentFTPExample.AssemblyInfoInputs.cache
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\FluentFTPExample.AssemblyInfo.cs
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\FluentFTPExample.csproj.CoreCompileInputs.cache
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\FluentFT.C9730CF5.Up2Date
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\FluentFTPExample.dll
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\refint\FluentFTPExample.dll
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\FluentFTPExample.pdb
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\FluentFTPExample.genruntimeconfig.cache
+E:\GitHub\FluentFtpSolution\obj\Debug\net8.0\ref\FluentFTPExample.dll
